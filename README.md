@@ -1,8 +1,9 @@
 # 💫 About Me:
-Nagaveni S Harakuni studying in Dept of CSE KLS VDIT Haliyal
+Nagaveni S Harakuni studying in Department of CSE KLS VDIT Haliyal
 
-🔭 Currently working on: AI-Sport Injury Risk Detection from Video<br>🌱 Learning: Python, React, AI, DSA<br>👋 Looking to collaborate on open-source projects<br>💬 Interested in : Python, Web Development<br>📫 Reach me at: nagaveniharakuni11@gmail.com<br>
+Passionate Computer Science student with an interest in Artificial Intelligence, Data Science, and Software Development. I enjoy turning ideas into real-world applications and continuously expanding my technical knowledge.
 
+- Email: nagaveniharakuni11@gmail.com
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagaveniharakuni11@gmail.com) 
